@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly design work, and anything involving Python or SQL.
 - 📫 How to reach me -> tamikshasharma9@gmail.com 
 - 😄 Pronouns:she/her 
-- ⚡ Fun fact:Can juggle Python stacks, SQL queries, Excel formulas, and Photoshop layers — all before lunch. Powered by curiosity, food and caffeine (mostly).
+- ⚡ Fun fact:AI writes codes using my knowledge, if there is anything new it teaches me well and we grow together 
 
 <!---
 Tamiksha-porcupine/Tamiksha-porcupine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
