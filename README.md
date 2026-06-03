@@ -61,3 +61,6 @@ I build things that learn, predict, and make sense of data. Currently focused on
 
 
 *"Data is not just numbers. It is decisions waiting to be made."*
+**Let's Connet**
+**Email** (tamikshasharma9@gmail.com)
+**LinkedIn** (https://www.linkedin.com/in/tamiksha-sharma-374b3030b/)
