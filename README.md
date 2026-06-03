@@ -9,21 +9,21 @@ I build things that learn, predict, and make sense of data. Currently focused on
 ## What I Work With
 
 1.Languages
-Python
-R
-SQL
-HTML & CSS
+-Python
+-R
+-SQL
+-HTML & CSS
 
 2.Machine Learning & AI
-Machine Learning (Regression, Classification, Clustering)
-Deep Learning (Neural Networks)
-Scikit-learn
+-Machine Learning (Regression, Classification, Clustering)
+-Deep Learning (Neural Networks)
+-Scikit-learn
 
 3.Data & Visualization
-Pandas
-NumPy
-Matplotlib
-Seaborn
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
 
 
 ---
@@ -59,11 +59,5 @@ Seaborn
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](tamikshasharma9@gmail.com)
-
----
 
 *"Data is not just numbers. It is decisions waiting to be made."*
