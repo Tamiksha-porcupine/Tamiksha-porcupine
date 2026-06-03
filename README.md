@@ -8,22 +8,22 @@ I build things that learn, predict, and make sense of data. Currently focused on
 
 ## What I Work With
 
-1.Languages
--**Python**
--**R**
--**SQL**
--**HTML & CSS**
+**1.Languages**
+- **Python**
+- **R**
+- **SQL**
+- **HTML & CSS**
 
-2.Machine Learning & AI
--**Machine Learning (Regression, Classification, Clustering)**
--**Deep Learning (Neural Networks)**
--**Scikit-learn**
+**2.Machine Learning & AI**
+- **Machine Learning (Regression, Classification, Clustering)**
+- **Deep Learning (Neural Networks)**
+- **Scikit-learn**
 
-3.Data & Visualization
--**Pandas**
--**NumPy**
--**Matplotlib**
--**Seaborn**
+**3.Data & Visualization**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
 
 
 ---
