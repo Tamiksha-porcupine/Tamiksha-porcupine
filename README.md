@@ -1,4 +1,4 @@
-# Deeya
+# Tamiksha Sharma
 
 ### Data Science | Machine Learning | Deep Learning | Data Analysis
 
