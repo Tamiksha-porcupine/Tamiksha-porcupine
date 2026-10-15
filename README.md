@@ -14,10 +14,11 @@ I build things that learn, predict, and make sense of data. Currently focused on
 - **SQL**
 - **HTML & CSS**
 
-**2.Machine Learning & AI**
-- **Machine Learning (Regression, Classification, Clustering)**
-- **Deep Learning (Neural Networks)**
+**2.Machine Learning, Deep Learning, Computer Vision**
+- **Machine Learning (Regression, Classification, Clustering, Dimenstion Reduction)**
+- **Deep Learning (Neural Networks,CNN,ANN)**
 - **Scikit-learn**
+- **OpenCV**
 
 **3.Data & Visualization**
 - **Pandas**
